@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Smuel P.S. Seun (favorite name)!!<br>🚀 Aspiring Software Engineer<br>📚 Studying Computer Engineering @ University of Lagos<br>👩🏽‍💻 Worked remotely with Canada-based NGOs as a Full-Stack Engineer<br>🛠️ Challenges? I face them with resilience and always aim for the zenith<br>💡 Let's code and innovate the world together!
+Hi, I’m Samuel P.S. Seun (favorite name)!!<br>🚀 Aspiring Software Engineer<br>📚 Studying Computer Engineering @ University of Lagos<br>👩🏽‍💻 Worked remotely with Canada-based NGOs as a Full-Stack Engineer<br>🛠️ Challenges? I face them with resilience and always aim for the zenith<br>💡 Let's code and innovate the world together!
 
 
 ## 🌐 Socials:
