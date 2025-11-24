@@ -6,5 +6,5 @@ low-level systems, and performance-critical backend development.
 
 ## Currently
 - Working on C++ systems projects (concurrency, performance, low-latency logic).  
-- Deepening my understanding of OS concepts, memory, and systems programming.  
+- Focused on OS internals, memory systems, and performance-oriented systems programming.  
 - Exploring hardware-adjacent engineering as part of my Computer Engineering background.
