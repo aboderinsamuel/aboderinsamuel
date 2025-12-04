@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Samuel, a Computer Engineering student focused on systems engineering and 
-performance-critical software. I work primarily with C++ to build high-performance, 
+performance-critical software. I work primarily with C++ and Python to build high-performance, 
 low-level backend systems.
 
 ## Currently
