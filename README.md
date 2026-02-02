@@ -20,17 +20,6 @@ I enjoy working close to the system, understanding how software behaves under re
 
 ---
 
-## Selected Experience & Learning
-
-💎 **Core areas I’ve worked in / actively study:**
-
-- Linux systems administration & terminal workflows  
-- Networking fundamentals (TCP/IP, DNS, HTTP, latency thinking)  
-- Monitoring & reliability concepts (alerts, failure modes, SLIs/SLOs)  
-- Data Structures & Algorithms 
-
----
-
 ## Tech Stack
 
 ### Languages
