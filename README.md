@@ -14,7 +14,7 @@
 ## 🌱 What I’m actively building strength in:
 - **Embedded Systems & Hardware Programming**: Microcontrollers, peripherals, low-level C/C++ programming
 - **SRE fundamentals**: Linux, networking, monitoring, automation 
-- **Python**: Tooling, scripting, and rapid prototyping  
+- **golang**: infra and mircoservices
 
 I enjoy working close to the system, understanding how software behaves under real-world constraints: **latency, reliability, scale, and hardware limits**.
 
