@@ -30,6 +30,7 @@ I enjoy working close to the system, understanding how software behaves under re
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+  <im src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 </p>
 
 ### Other
