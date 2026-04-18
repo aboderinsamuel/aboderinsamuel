@@ -56,3 +56,5 @@ I enjoy working close to the system, understanding how software behaves under re
 </p>
 
 
+
+![Language Stats](stats/leaderboard_by_lines.png)
