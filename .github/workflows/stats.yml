@@ -18,3 +18,4 @@ jobs:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard"
           output_path: "stats"
+          exclude_repos: "planhat-perfect-replica,acway,new,ball_ngo,shegotthis,leetcode-tracker,pf,aboderin,FAANG-Coding-Interview-Questions,LeetCode-Solutions"
