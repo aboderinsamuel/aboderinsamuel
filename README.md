@@ -30,8 +30,8 @@ current:     Contributing to PyArrow & Optimizing ML Workloads
 
 | Project | What it does | Architecture Highlights |
 | ------- | ------------ | ----------------------- |
-| **closed** | Open-source version-control application for AI prompts. | Built with Next.js, TypeScript, and Supabase to track, diff, and version prompt engineering states seamlessly. |
-| **Cleverli** | AI-powered digital employee platform automating business workflows. | Orchestrates real-time, event-driven communication processing across WhatsApp, Slack, and Email. |
+| **closedNote** | Open-source version-control application for AI prompts. | Built with Next.js, TypeScript, and Supabase to track, diff, and version prompt engineering states seamlessly. |
+| **Skeel** | AI-powered digital employee platform automating business workflows. | Orchestrates real-time, event-driven communication processing across WhatsApp, Slack, and Email. |
 
 ---
 
