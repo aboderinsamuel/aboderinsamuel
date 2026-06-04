@@ -19,4 +19,4 @@ jobs:
           visualization_types: "leaderboard"
           output_path: "stats"
           include_forks: "true"
-          exclude_repos: "planhat-perfect-replica,acway,new,ball_ngo,shegotthis,leetcode-tracker,pf,aboderin,FAANG-Coding-Interview-Questions,LeetCode-Solutions,LiveBoard,x-algorithm,interview-prep-notes-anki,what-happens-when,arrow"
+          exclude_repos: "planhat-perfect-replica,acway,new,ball_ngo,shegotthis,leetcode-tracker,pf,aboderin,FAANG-Coding-Interview-Questions,LeetCode-Solutions,LiveBoard,x-algorithm,interview-prep-notes-anki,what-happens-when,Telos,closedNote,svrg-vs-sgd,arrow"
