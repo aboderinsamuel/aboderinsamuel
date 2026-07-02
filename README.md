@@ -49,10 +49,4 @@ I build and optimize software where every microsecond, byte of memory, and CPU c
 
 ---
 
-## 📈 Code Metrics
-
-<p align="center">
-  <img src="stats/leaderboard_by_bytes.png" alt="Language Stats" width="85%" />
-</p>
-
 > *"The best way to optimize code is to treat memory layouts as physical geometry and clock cycles as currency."*
