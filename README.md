@@ -11,7 +11,7 @@
 
 I build and optimize software where every microsecond, byte of memory, and CPU cycle matters. I thrive closest to the metal, understanding how software behaves under rigid real-world constraints: **latency, reliability, scale, and hardware limits.**
 
-*   **Systems & Data Infrastructure:** Contributing to **PyArrow** via the **MLH Fellowship (in partnership with G-Research)**, focusing on high-performance memory management, columnar data layouts, and ultra-fast serialization.
+*   **Systems & Data Infrastructure:** Contributing to **Apache Arrow** and **Pandas** via the **MLH Fellowship (in partnership with G-Research)**, focusing on high-performance memory management, columnar data layouts, and ultra-fast serialization.
 *   **Low-Latency Engineering:** Actively diving deep into low-level C/C++, custom memory allocators, cache optimization, and mechanical sympathy.
 
 ---
